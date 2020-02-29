@@ -1,5 +1,5 @@
 class Song
-  def initialize(song_name)
+  def new
     @song = song_name
     @artist = artist
     @genre = genre
