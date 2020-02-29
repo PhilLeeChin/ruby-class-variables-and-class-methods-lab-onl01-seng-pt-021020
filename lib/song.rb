@@ -1,5 +1,5 @@
 class Song
-  def new
+  def new(song_name, artist, genre)
     @song = song_name
     @artist = artist
     @genre = genre
